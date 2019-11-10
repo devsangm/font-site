@@ -1,8 +1,8 @@
 @font-face {
     font-family: 'Nexa';
-    src: url('fonts/nexa-bold.eot');
-    src: url('fonts/nexa-bold.eot?#iefix') format('embedded-opentype'),
-         url('fonts/nexa-bold.woff') format('woff'),
-         url('fonts/nexa-bold.ttf') format('truetype');
+    src: url('https://cdn.rawgit.com/devsangm/font-site/blob/master/fonts/nexa-bold.eot');
+    src: url('https://cdn.rawgit.com/devsangm/font-site/blob/master/fonts/nexa-bold.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.rawgit.com/devsangm/font-site/blob/master/fonts//nexa-bold.woff') format('woff'),
+         url('https://cdn.rawgit.com/devsangm/font-site/blob/master/fonts//nexa-bold.ttf') format('truetype');
     font-weight: 700;
 }
